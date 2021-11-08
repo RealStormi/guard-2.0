@@ -1,0 +1,16 @@
+main: de.stormi.main.Main
+version: 1.0
+name: guard
+
+commands:
+  heal:
+    description: Mit diesem Befehl kannst du dich Heilen
+  shelp:
+    description: Dieser Command gehört zum Guard system von Stormi_139 und zeigt dir alle Befehle an!
+  adminhelp:
+    descripton: §4§lNur für Admins!
+  feedcommand:
+    description: Stille deinen Hunger
+  flyspeed1:
+    description: Setzte deine Fluggeschwindigkeit auf 1
+    description: §4§lNur für Admins!!
